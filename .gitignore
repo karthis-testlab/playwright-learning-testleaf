@@ -1,3 +1,7 @@
 .DS_Store
-playwright-basic-learnings/node_modules
+/playwright-basic-learnings/node_modules/
+/playwright-basic-learnings/test-results/
+/playwright-basic-learnings/playwright-report/
+/playwright-basic-learnings/blob-report/
+/playwright-basic-learnings/playwright/.cache/
 learning-documents/
